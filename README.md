@@ -1,4 +1,4 @@
 # Проект на Angular cars-hw
 ## Аренда премиальных автомобилей
-![[Ссылка](https://answer-0885.github.io/cars-hw/)](assets/img/car.png)
+![[Ссылка](assets/img/car.png)](https://answer-0885.github.io/cars-hw/)
 [Ознакомиться с проектом](https://answer-0885.github.io/cars-hw/)
