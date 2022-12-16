@@ -4,4 +4,4 @@
 
 ## Получение данных осуществляется с открытого API: https://testologia.site/intensive-data
 
-[Ознакомиться с проектом](https://answer-0885.github.io/cars-hw/)
+## [Ознакомиться с проектом](https://answer-0885.github.io/cars-hw/)
